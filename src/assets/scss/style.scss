@@ -1,0 +1,61 @@
+.img-responsive {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  width: 60px;
+  margin-right: .3rem;
+}
+
+.brand-logo-inicio {
+  position: absolute !important;
+  top: 50px !important;
+  left: 3rem !important;
+  margin: auto !important;
+}
+.flex-display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.bg-inicio{
+    background-image: url('../images/bg/inicio.png');
+    height: 100vh;
+    background-color: rgb(255, 255, 255);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.text-tittle{
+    color: #fff;
+    text-shadow: 2px 2px rgba(0, 0, 0, 0.199);
+}
+
+@media screen and (max-width: 992px) {
+    .text-tittle{
+        color: #5e5873;
+        text-shadow: 2px 2px rgba(0, 0, 0, 0.199);
+    }
+}
+
+.bg-error-404{
+    width: 100vw;
+    height: 100vh;
+    background-image: url('../images/pages/error.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.text-error-404{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    padding-top: 20rem !important;
+}
+
+.text-dark-404{
+    color: #050505;
+}

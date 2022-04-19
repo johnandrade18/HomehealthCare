@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 2340 1560" style="enable-background:new 0 0 2340 1560;" xml:space="preserve">
+    <style type="text/css">
+	.st0{fill:url(#SVGID_1_);}
+	.st1{fill:url(#SVGID_2_);}
+	.st2{fill:url(#SVGID_3_);}
+</style>
+    <g>
+        <linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="1303.1971" y1="756.1416" x2="1303.1971" y2="868.8256">
+            <stop offset="5.376340e-03" style="stop-color:#96C01F" />
+            <stop offset="1" style="stop-color:#106835" />
+        </linearGradient>
+        <path class="st0" d="M1269.51,777.67c30.24-14.98,52.31-43.89,57.9-78.34c-14.62,49.6-178.83,43.68-76.73,181.32
+		c23.84-82.31,150.29-78.09,137.37-245.16C1380.88,703.27,1333.12,758.91,1269.51,777.67z" />
+        <linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="1109.351" y1="756.1416" x2="1109.351" y2="868.8256">
+            <stop offset="5.376340e-03" style="stop-color:#96C01F" />
+            <stop offset="1" style="stop-color:#106835" />
+        </linearGradient>
+        <path class="st1" d="M1143.04,777.67c-30.24-14.98-52.31-43.89-57.9-78.34c14.62,49.6,178.84,43.68,76.73,181.32
+		c-23.84-82.31-150.29-78.09-137.36-245.16C1031.66,703.27,1079.42,758.91,1143.04,777.67z" />
+        <linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="1241.3778" y1="592.1595" x2="1156.6235" y2="728.279">
+            <stop offset="5.376340e-03" style="stop-color:#15BBEF" />
+            <stop offset="1" style="stop-color:#2274B9" />
+        </linearGradient>
+        <path class="st2" d="M1206.27,515.65l-130.84,130.62h27.7v48.83c3.51,8.07,21.13,17.04,36.78,25
+		c24.06,12.23,53.08,27.06,66.35,53.75c13.27-26.69,42.3-41.52,66.35-53.75c15.65-7.96,33.25-16.93,36.78-24.99v-48.84h27.71
+		L1206.27,515.65z M1196.3,693.26h-19.95V673.3h19.95V693.26z M1196.3,653.35h-19.95V633.4h19.95V653.35z M1236.21,693.26h-19.95
+		V673.3h19.95V693.26z M1236.21,653.35h-19.95V633.4h19.95V653.35z" />
+    </g>
+</svg>
